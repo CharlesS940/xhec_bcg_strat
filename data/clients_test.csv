@@ -1,0 +1,11 @@
+client_id,Last_Purchase_Date,status
+client_1,2024-11-09T13:44:17.508311,at risk
+client_2,2024-10-30T13:44:17.508311,at risk
+client_3,2024-10-08T13:44:17.508311,at risk
+client_4,2023-02-26T00:00:00.000000,churned
+client_5,2021-06-19T00:00:00.000000,churned
+client_6,2023-07-15T00:00:00.000000,churned
+client_7,2024-12-24T13:44:17.508311,active
+client_8,2025-01-22T13:44:17.508311,active
+client_9,2025-01-12T13:44:17.508311,active
+client_10,2024-12-01T13:44:17.508311,active
