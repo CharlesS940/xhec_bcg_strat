@@ -1,0 +1,1362 @@
+client_id,days_since_last_transaction,avg_days_between_transactions,effort_required,status,potential_monthly_profit
+14,2,1.44,1 Email,active,116369.51
+753,3,2.55,1 Visit,active,37081.6
+4696,2,1.48,1 Visit,active,42882.7
+6839,5,1.59,2 Phone calls,churned,69308.45
+8815,5,2.82,1 Email,active,36808.69
+12251,2,1.54,1 Visit,active,45105.55
+13069,12,2.49,2 Phone calls,churned,37056.35
+13875,4,3.33,1 Email,active,41653.61
+16630,3,1.62,2 Phone calls,active,46398.31
+19006,2,1.7,1 Email,active,48414.94
+19470,2,1.5,1 Email,active,70339.01
+20240,9,2.31,1 Visit,churned,49230.06
+21424,3,1.49,1 Email,active,64550.44
+21797,3,1.75,1 Visit,active,62441.46
+23100,3,1.58,1 Visit,active,43238.54
+24722,2,1.61,1 Email,active,46815.68
+24887,3,1.59,1 Email,active,100503.68
+25087,20,3.24,2 Phone calls,churned,42990.12
+26661,3,1.49,1 Email,active,43570.05
+27570,2,3.07,2 Phone calls,active,55482.2
+30450,9,1.48,2 Phone calls,churned,73964.41
+31213,2,1.46,2 Phone calls,active,381158.26
+32211,2,1.45,2 Phone calls,active,94862.26
+33945,3,1.47,1 Visit,active,164038.22
+36319,2,1.6,2 Phone calls,active,49417.25
+37031,10,3.0,1 Visit,churned,36922.34
+37298,4,1.58,1 Email,active,48958.13
+37973,3,1.7,1 Email,active,59165.66
+39877,2,1.32,1 Email,active,114640.39
+41428,2,1.58,1 Visit,active,41039.09
+41637,2,1.48,1 Email,active,75152.21
+42339,2,1.71,1 Email,active,39266.06
+44839,2,1.45,1 Visit,active,202842.96
+45025,2,1.44,2 Phone calls,active,55744.66
+45198,9,1.53,1 Email,churned,62081.78
+45773,2,1.48,1 Email,active,50013.68
+49886,235,3.17,1 Visit,churned,89872.77
+53453,2,1.64,1 Visit,active,41403.81
+55014,3,1.49,1 Email,active,39752.51
+55137,10,1.59,1 Visit,churned,41934.29
+57631,2,1.5,1 Email,active,86861.06
+59282,2,2.17,1 Email,active,52042.88
+63263,3,1.68,1 Email,active,38486.85
+63290,2,1.81,1 Visit,active,43359.89
+64577,5,3.54,1 Visit,active,56817.21
+67305,536,1.43,1 Visit,churned,170508.23
+68390,9,2.25,1 Visit,churned,36810.96
+69720,2,1.44,2 Phone calls,active,54332.08
+73301,2,1.44,2 Phone calls,active,55679.64
+76793,3,2.78,2 Phone calls,active,44288.0
+79921,2,1.51,2 Phone calls,active,38414.19
+80663,3,1.77,2 Phone calls,active,42162.69
+83707,2,2.38,1 Email,active,52346.81
+84365,2,1.96,2 Phone calls,active,52993.59
+86499,2,1.47,1 Email,active,36970.46
+87696,2,1.52,1 Visit,active,39361.45
+91749,2,1.53,1 Visit,active,44844.48
+92655,2,1.44,1 Email,active,65200.54
+97492,2,1.56,1 Visit,active,94667.28
+102519,5,2.12,2 Phone calls,active,46811.83
+103426,2,1.44,1 Email,active,70028.74
+106085,2,1.49,1 Email,active,60207.11
+106107,9,2.4,1 Email,churned,45229.76
+106488,2,1.46,2 Phone calls,active,125711.15
+109692,5,2.17,1 Visit,active,93061.08
+113149,3,1.46,1 Email,active,126478.54
+113177,2,1.62,1 Email,active,52565.81
+114046,12,1.7,2 Phone calls,churned,43087.66
+117098,9,1.84,1 Email,churned,49781.02
+117709,5,1.53,1 Visit,churned,130467.1
+118157,5,1.83,1 Email,active,61776.41
+118261,2,1.45,2 Phone calls,active,62801.6
+120273,2,1.57,1 Visit,active,52658.57
+124349,9,1.58,1 Email,churned,53010.86
+125578,2,1.44,1 Email,active,85965.3
+130549,2,1.47,2 Phone calls,active,41448.69
+135325,2,1.86,1 Email,active,153330.34
+135616,4,1.51,1 Visit,active,44375.65
+138242,2,1.57,2 Phone calls,active,41278.21
+139835,2,1.45,1 Email,active,75760.42
+140313,157,1.53,2 Phone calls,churned,84701.94
+141736,9,1.61,1 Email,churned,48478.2
+145272,2,1.45,1 Visit,active,39346.79
+149433,2,1.81,1 Email,active,39102.98
+151397,4,1.49,1 Visit,active,71617.75
+152409,4,1.64,1 Email,active,50879.36
+153890,3,1.5,1 Email,active,95476.31
+159644,3,2.53,1 Email,active,43315.5
+160781,3,1.71,2 Phone calls,active,40924.78
+161977,2,1.49,1 Visit,active,49240.79
+163448,2,1.53,2 Phone calls,active,77639.08
+163472,2,1.49,1 Visit,active,44409.06
+163536,177,50.75,1 Visit,churned,49466.35
+166624,2,1.81,2 Phone calls,active,82600.44
+168204,3,1.51,1 Visit,active,60006.85
+170391,2,1.67,1 Email,active,64364.02
+171132,2,2.87,2 Phone calls,active,60008.6
+171312,2,1.73,2 Phone calls,active,80083.74
+174547,185,1.6,2 Phone calls,churned,70456.95
+177646,3,1.79,2 Phone calls,active,44069.3
+178746,24,2.22,2 Phone calls,churned,41515.05
+178851,9,2.22,1 Visit,churned,38968.67
+179892,2,1.85,2 Phone calls,active,56999.79
+184887,3,1.46,1 Visit,active,55202.39
+186500,5,1.85,2 Phone calls,active,38792.49
+186614,2,1.46,2 Phone calls,active,85101.61
+186700,3,1.49,1 Email,active,67704.64
+187061,11,2.59,1 Visit,churned,61155.25
+187747,2,1.47,2 Phone calls,active,73767.24
+188926,2,1.47,1 Visit,active,214424.31
+191381,9,1.48,1 Visit,churned,47644.11
+192301,2,1.53,2 Phone calls,active,104583.42
+193064,9,1.61,2 Phone calls,churned,56727.65
+195689,2,1.46,1 Email,active,71632.8
+197191,3,1.56,2 Phone calls,active,55523.75
+200803,2,1.49,1 Email,active,40840.2
+201675,2,1.52,1 Visit,active,125849.88
+203244,2,1.45,1 Visit,active,136677.55
+206643,4,1.56,1 Visit,active,36803.16
+208344,5,2.82,2 Phone calls,active,43049.79
+213494,3,2.04,2 Phone calls,active,57652.85
+213668,3,1.53,2 Phone calls,active,75088.44
+214751,4,1.61,1 Email,active,40474.65
+216261,2,1.58,2 Phone calls,active,45189.99
+218905,4,1.63,1 Visit,active,50507.35
+224524,2,1.37,2 Phone calls,active,127139.26
+229782,4,1.56,1 Visit,active,56353.04
+232611,3,1.48,1 Email,active,99923.33
+234785,18,2.99,1 Email,churned,63265.61
+237647,5,2.27,1 Email,active,125718.34
+238215,2,1.45,2 Phone calls,active,110381.79
+239348,2,2.49,2 Phone calls,active,46710.27
+240088,2,1.44,2 Phone calls,active,49137.54
+242501,2,1.51,2 Phone calls,active,52333.62
+245066,4,4.8,2 Phone calls,active,36436.4
+245272,2,1.45,1 Email,active,161420.06
+246242,3,1.72,1 Visit,active,70403.73
+249873,9,2.24,1 Email,churned,54060.04
+250790,2,1.44,2 Phone calls,active,207503.0
+250977,2,1.46,1 Visit,active,103840.45
+251920,11,2.11,1 Visit,churned,62104.79
+254563,3,1.92,1 Visit,active,52552.98
+254694,5,2.73,1 Visit,active,36683.28
+254713,2,1.46,1 Visit,active,180331.9
+255794,2,1.45,1 Visit,active,169659.89
+257861,2,1.44,1 Email,active,85929.64
+257929,2,1.49,2 Phone calls,active,54666.88
+258317,2,1.56,2 Phone calls,active,53864.86
+259345,2,1.44,1 Email,active,61388.06
+264180,2,1.53,1 Email,active,72271.31
+264770,2,1.52,1 Email,active,54289.65
+264820,1,1.4,1 Visit,active,82397.05
+267074,9,1.91,1 Email,churned,65553.56
+267327,2,2.66,1 Email,active,40775.81
+267660,3,1.56,1 Email,active,43017.15
+268249,2,1.45,1 Visit,active,186961.64
+269678,2,1.44,1 Email,active,140744.4
+270017,4,1.47,1 Visit,active,52572.7
+270023,2,1.56,1 Email,active,67242.71
+270053,3,2.1,1 Email,active,63548.32
+271317,10,1.72,1 Visit,churned,44123.54
+271918,2,1.64,1 Visit,active,40477.41
+274010,2,1.48,1 Visit,active,123268.26
+274607,2,1.54,2 Phone calls,active,49293.27
+274652,3,1.53,1 Visit,active,45542.42
+275785,2,1.57,2 Phone calls,active,53380.51
+276399,11,3.41,1 Email,churned,41584.43
+282205,2,1.45,1 Email,active,42840.22
+282316,2,1.44,1 Email,active,55726.27
+283373,2,1.51,1 Email,active,63862.76
+283625,2,1.44,1 Email,active,119979.07
+284343,2,1.85,1 Visit,active,51767.72
+285995,2,1.47,1 Visit,active,58426.56
+286249,2,1.89,1 Visit,active,46610.69
+287028,2,1.44,1 Visit,active,37171.34
+287031,9,1.69,2 Phone calls,churned,51232.63
+291547,2,1.46,2 Phone calls,active,74276.86
+293976,2,2.2,1 Email,active,73319.1
+295075,3,1.47,1 Visit,active,55103.91
+296199,2,1.57,1 Visit,active,38533.75
+296291,4,1.52,1 Email,active,95745.75
+296821,3,6.82,1 Visit,active,36168.66
+297446,5,2.12,2 Phone calls,active,47833.21
+297733,3,1.46,1 Visit,active,110299.86
+299463,2,2.29,2 Phone calls,active,39768.99
+304356,19,24.12,1 Visit,active,40895.91
+305386,3,1.6,1 Visit,active,45926.01
+310924,2,1.45,1 Email,active,93176.4
+312446,2,1.46,1 Email,active,48199.91
+313304,2,1.45,1 Email,active,112874.47
+315496,2,1.48,1 Email,active,179881.84
+316963,2,1.48,2 Phone calls,active,142215.76
+317207,2,1.44,1 Visit,active,41149.34
+317406,9,1.48,2 Phone calls,churned,53781.61
+318912,11,1.94,1 Email,churned,40171.8
+318938,11,2.15,1 Email,churned,38447.29
+319093,2,1.53,2 Phone calls,active,40103.15
+319575,2,1.45,1 Email,active,59620.35
+322573,4,1.54,1 Email,active,66156.04
+323038,2,1.43,1 Email,active,62598.26
+324012,2,1.44,1 Visit,active,363447.81
+324900,3,2.18,2 Phone calls,active,36794.56
+325331,2,1.54,1 Visit,active,43315.11
+328035,2,1.47,2 Phone calls,active,46185.09
+331825,3,1.51,1 Email,active,49759.39
+334340,2,2.81,1 Email,active,83357.03
+334437,9,1.61,2 Phone calls,churned,38069.19
+334812,3,1.51,1 Visit,active,92485.26
+335696,2,1.34,1 Email,active,39179.44
+337414,2,1.45,1 Email,active,202341.9
+339007,2,1.46,1 Email,active,61543.35
+341268,4,1.5,2 Phone calls,active,55953.95
+341530,2,1.48,2 Phone calls,active,55074.73
+343904,5,7.67,1 Visit,active,37635.93
+345269,3,1.45,2 Phone calls,active,106284.01
+345535,9,1.74,1 Email,churned,44040.64
+346256,2,1.46,1 Email,active,354513.38
+346874,3,1.83,2 Phone calls,active,47978.79
+347733,2,1.45,1 Email,active,53826.86
+349178,2,1.48,1 Email,active,59735.63
+349291,2,1.52,1 Visit,active,65532.89
+349300,9,1.65,1 Visit,churned,56252.69
+349582,2,1.45,1 Visit,active,112814.39
+349666,3,1.7,1 Email,active,44478.64
+351570,2,1.45,2 Phone calls,active,138338.9
+351723,9,1.49,1 Email,churned,58597.99
+356814,5,1.69,1 Email,active,101601.79
+359511,9,1.75,1 Visit,churned,68851.68
+360673,2,1.68,2 Phone calls,active,42634.62
+362470,4,1.5,2 Phone calls,active,36319.55
+365271,4,2.86,1 Email,active,86170.95
+367675,3,1.68,1 Visit,active,36148.34
+368527,2,1.45,1 Visit,active,50783.65
+371301,3,1.46,1 Visit,active,103256.72
+372912,3,1.48,1 Visit,active,75229.86
+373049,2,1.62,1 Email,active,50401.69
+374188,10,1.77,1 Visit,churned,55719.36
+374756,2,1.77,1 Visit,active,38018.84
+377332,10,2.04,1 Visit,churned,40921.0
+377854,9,1.96,2 Phone calls,churned,57899.19
+378189,9,1.69,1 Visit,churned,40888.04
+378412,2,1.54,2 Phone calls,active,40027.89
+380433,2,1.49,1 Email,active,85715.81
+381292,2,1.62,1 Visit,active,119912.84
+382824,10,1.7,1 Visit,churned,90713.88
+385383,2,1.46,2 Phone calls,active,104043.31
+385520,2,1.49,1 Email,active,77470.69
+388586,2,1.6,1 Visit,active,50002.98
+390895,3,1.45,2 Phone calls,active,46404.01
+392667,2,1.46,1 Visit,active,47583.44
+393868,10,1.77,1 Email,churned,54417.08
+397951,2,1.45,2 Phone calls,active,45623.0
+398204,2,1.44,1 Visit,active,65928.32
+398705,13,2.53,1 Visit,churned,69068.27
+399037,3,1.5,2 Phone calls,active,36755.0
+403467,2,3.35,2 Phone calls,active,57236.19
+406145,2,1.49,1 Email,active,41587.2
+407345,10,1.74,1 Email,churned,41798.89
+407858,2,1.46,1 Visit,active,46198.19
+409987,2,1.42,1 Visit,active,186718.04
+413168,4,1.95,2 Phone calls,active,49490.26
+417576,2,1.43,1 Visit,active,1033134.51
+418450,2,1.46,2 Phone calls,active,46186.59
+424287,5,1.55,2 Phone calls,churned,60003.91
+430146,2,1.5,1 Email,active,99538.2
+431555,2,1.48,1 Email,active,76967.4
+432972,3,1.47,1 Email,active,38707.99
+433367,13,2.77,1 Email,churned,46728.26
+433629,2,1.54,1 Email,active,96689.85
+435648,2,1.77,2 Phone calls,active,40524.8
+436537,2,1.86,2 Phone calls,active,71359.7
+436955,2,1.69,2 Phone calls,active,71813.71
+438726,2,1.47,1 Email,active,145787.92
+439866,2,1.47,2 Phone calls,active,87443.94
+440241,2,1.47,2 Phone calls,active,83242.62
+440342,2,1.51,1 Email,active,67673.32
+441144,2,1.91,1 Visit,active,43242.59
+442588,2,1.44,1 Email,active,124861.72
+444843,2,1.46,1 Email,active,58553.4
+445592,362,26.18,1 Email,churned,128348.4
+454245,4,1.5,1 Visit,active,38882.65
+458364,2,1.55,2 Phone calls,active,39444.8
+458423,2,1.78,2 Phone calls,active,40159.14
+464351,2,1.45,1 Visit,active,41170.9
+469125,9,2.54,1 Email,churned,43564.8
+471983,10,3.59,2 Phone calls,active,42682.81
+472099,2,1.53,1 Visit,active,83064.81
+472512,9,1.47,1 Visit,churned,54346.49
+472514,11,1.92,1 Email,churned,51951.45
+472898,3,1.96,2 Phone calls,active,63326.49
+473896,3,1.48,1 Email,active,73635.41
+474373,2,1.67,1 Email,active,49761.04
+475640,2,1.54,1 Email,active,88754.81
+476807,5,1.48,2 Phone calls,churned,51900.39
+477675,2,1.47,2 Phone calls,active,38207.97
+487011,9,1.78,1 Email,churned,62252.51
+489052,2,1.44,1 Visit,active,45254.24
+491882,13,4.73,2 Phone calls,active,45130.44
+498112,2,1.42,2 Phone calls,active,113251.14
+502068,2,1.81,1 Visit,active,38008.9
+505460,2,1.5,1 Email,active,40799.85
+506296,2,1.46,2 Phone calls,active,111280.4
+507553,2,1.5,1 Email,active,51455.66
+508501,2,1.54,2 Phone calls,active,52018.59
+511577,2,1.46,2 Phone calls,active,127275.57
+511962,2,1.42,1 Visit,active,44371.82
+512660,23,3.62,1 Visit,churned,43310.63
+513380,2,1.44,1 Email,active,100795.12
+516405,2,1.45,1 Visit,active,71573.16
+517065,2,1.51,1 Email,active,76234.16
+517554,4,1.65,1 Visit,active,44467.38
+517696,2,1.47,1 Visit,active,152924.16
+520988,2,1.49,1 Visit,active,82697.31
+521232,2,1.44,2 Phone calls,active,41458.29
+526216,2,1.53,1 Visit,active,58250.95
+526883,5,1.45,1 Visit,churned,120346.0
+527348,9,1.64,1 Email,churned,51304.28
+528366,13,2.82,1 Visit,churned,76611.48
+528506,2,1.52,1 Visit,active,157453.45
+529000,5,2.06,1 Email,active,49989.71
+530188,3,1.72,1 Visit,active,62370.25
+534843,2,1.44,2 Phone calls,active,93559.51
+535319,3,1.69,1 Visit,active,57326.05
+535956,9,2.34,2 Phone calls,churned,41332.36
+537935,4,1.53,1 Visit,active,47341.23
+539483,2,1.54,2 Phone calls,active,47208.5
+542924,9,1.57,1 Email,churned,51313.2
+542988,2,1.93,2 Phone calls,active,45892.32
+545353,3,1.5,1 Visit,active,42124.64
+548596,4,1.85,2 Phone calls,active,41948.11
+548753,3,1.52,1 Visit,active,79266.48
+549675,3,1.48,2 Phone calls,active,43414.47
+550516,4,1.61,2 Phone calls,active,63427.92
+551651,2,1.46,1 Email,active,175060.09
+553655,2,1.44,1 Visit,active,80047.41
+558325,2,1.55,1 Visit,active,97700.5
+559811,2,1.44,1 Visit,active,175845.44
+560228,3,1.49,2 Phone calls,active,63560.15
+562648,2,1.48,1 Visit,active,64243.04
+564422,4,1.59,1 Email,active,244382.29
+566169,9,1.67,2 Phone calls,churned,92623.92
+569096,2,1.51,2 Phone calls,active,77526.72
+569729,4,1.59,2 Phone calls,active,69426.05
+572750,3,2.03,2 Phone calls,active,36512.98
+573452,2,1.49,1 Visit,active,56489.95
+574461,2,1.53,1 Email,active,38657.18
+575414,2,1.52,2 Phone calls,active,42735.54
+576532,12,3.44,2 Phone calls,churned,49814.08
+577056,1,1.75,1 Visit,active,40689.25
+577099,3,1.52,1 Visit,active,103650.32
+578376,2,1.88,2 Phone calls,active,43525.29
+580237,2,1.51,2 Phone calls,active,62048.26
+582299,5,3.37,1 Visit,active,125231.2
+589035,2,1.5,2 Phone calls,active,51845.45
+591832,2,1.45,1 Email,active,106512.19
+593006,2,1.45,2 Phone calls,active,200160.58
+596258,9,1.46,1 Email,churned,259787.25
+596775,2,1.48,1 Visit,active,111655.9
+597355,5,1.66,2 Phone calls,churned,37589.04
+598278,2,1.5,1 Visit,active,62917.11
+598931,4,1.78,2 Phone calls,active,57841.21
+600098,2,1.51,1 Email,active,36613.28
+600933,5,1.51,1 Visit,churned,51862.75
+604261,2,1.48,1 Email,active,89611.8
+604791,10,3.29,1 Email,churned,67004.03
+606445,5,1.75,1 Email,active,51605.89
+606891,2,1.55,1 Email,active,41902.31
+607998,20,3.57,1 Visit,churned,56528.88
+609244,2,1.46,1 Visit,active,71566.56
+611953,2,1.54,2 Phone calls,active,47056.89
+612396,2,1.46,1 Email,active,105260.51
+613336,2,1.45,2 Phone calls,active,71762.6
+614764,4,1.73,2 Phone calls,active,57636.5
+618691,11,4.13,1 Email,active,44595.15
+621340,3,1.64,2 Phone calls,active,61757.23
+623096,4,1.55,1 Visit,active,50180.09
+625545,2,1.45,1 Email,active,49546.35
+625780,2,1.49,2 Phone calls,active,50280.8
+626527,3,1.49,2 Phone calls,active,55325.56
+627824,2,1.57,1 Email,active,37924.95
+628011,3,1.64,1 Visit,active,39529.98
+631391,12,3.84,1 Visit,churned,46451.35
+631876,9,1.95,2 Phone calls,churned,174209.53
+632774,2,1.49,1 Visit,active,61688.16
+635072,2,1.61,1 Visit,active,67669.19
+635328,2,1.78,1 Visit,active,51216.74
+636796,2,1.45,2 Phone calls,active,41728.32
+636823,3,2.29,1 Email,active,117399.04
+638703,3,1.68,1 Email,active,54874.95
+638795,2,1.45,1 Visit,active,45328.6
+638957,2,1.5,1 Visit,active,58329.1
+642556,2,2.43,1 Visit,active,45850.52
+644060,3,1.95,1 Email,active,47906.89
+645041,2,1.46,1 Email,active,43668.26
+647292,2,1.43,2 Phone calls,active,50633.3
+652798,2,1.49,1 Email,active,102896.93
+653182,2,1.48,2 Phone calls,active,68123.23
+655972,11,1.52,1 Email,churned,76641.56
+660495,0,1.59,1 Email,active,84471.82
+662246,5,1.76,2 Phone calls,active,72424.48
+663154,2,1.44,2 Phone calls,active,46687.25
+664162,3,1.74,1 Visit,active,40216.3
+665522,3,1.79,1 Visit,active,50615.69
+668018,12,1.76,1 Email,churned,47584.09
+669927,2,1.54,2 Phone calls,active,51612.16
+670567,2,1.57,1 Visit,active,104268.32
+670886,2,1.45,1 Email,active,66521.36
+672776,2,1.44,1 Email,active,52688.02
+674617,2,1.46,2 Phone calls,active,159232.55
+681753,2,1.5,1 Email,active,37517.14
+682077,2,1.5,1 Visit,active,39160.08
+682353,2,1.47,1 Visit,active,55047.14
+683383,2,1.52,1 Email,active,100059.04
+687339,2,1.68,1 Email,active,49000.88
+687584,9,1.73,1 Visit,churned,111595.22
+688777,2,1.63,1 Visit,active,51540.06
+688919,2,1.51,1 Email,active,37747.54
+689477,4,1.56,2 Phone calls,active,85377.05
+691738,9,2.2,1 Visit,churned,61788.29
+691897,9,1.5,2 Phone calls,churned,61293.58
+692195,5,1.48,1 Visit,churned,80646.77
+694254,3,1.51,1 Visit,active,52301.42
+694342,4,1.51,1 Email,active,44278.69
+695540,3,1.56,1 Visit,active,36859.3
+696515,9,1.67,1 Email,churned,48247.2
+697186,2,1.54,1 Email,active,63167.74
+698750,3,1.87,1 Email,active,38840.59
+699010,9,1.69,1 Visit,churned,46651.19
+702762,3,1.66,2 Phone calls,active,43705.29
+702888,3,1.65,2 Phone calls,active,43902.72
+705312,1,1.28,1 Visit,active,126165.7
+709228,2,1.77,1 Visit,active,57383.8
+712933,2,1.5,1 Email,active,45480.6
+720278,2,1.48,1 Email,active,70038.75
+721946,2,1.44,1 Visit,active,57323.13
+725438,5,2.47,2 Phone calls,active,114896.94
+726867,34,8.19,1 Visit,churned,78144.66
+730155,2,1.58,1 Email,active,44740.73
+732030,4,1.54,1 Email,active,45756.11
+734322,4,1.52,2 Phone calls,active,79426.74
+734583,2,1.44,1 Email,active,41716.91
+734809,5,2.08,1 Visit,active,48613.15
+735831,2,1.59,2 Phone calls,active,50171.41
+736364,2,1.61,2 Phone calls,active,42646.44
+736968,2,1.47,1 Email,active,136939.09
+744320,9,2.23,2 Phone calls,churned,36458.41
+746158,3,1.48,1 Email,active,45055.31
+746360,2,1.46,1 Email,active,134037.86
+747888,3,1.52,2 Phone calls,active,119315.19
+747951,2,1.46,1 Email,active,55323.56
+749102,38,13.78,1 Email,active,44282.62
+749713,2,1.45,1 Visit,active,48699.29
+750311,2,1.45,2 Phone calls,active,119841.39
+755246,5,1.69,1 Visit,active,68314.26
+755519,2,1.94,1 Email,active,42397.91
+757650,2,1.45,1 Email,active,108750.38
+758269,2,1.54,1 Visit,active,45752.87
+761727,2,1.46,1 Email,active,45960.23
+763357,2,2.36,2 Phone calls,active,78366.58
+764025,4,1.73,2 Phone calls,active,39372.09
+768587,9,2.12,1 Visit,churned,39411.78
+774613,3,1.6,2 Phone calls,active,81319.51
+776321,2,1.85,2 Phone calls,active,46785.73
+776358,2,1.49,2 Phone calls,active,78649.55
+778118,2,1.57,1 Visit,active,114449.76
+781036,9,1.59,1 Visit,churned,61365.66
+782240,3,1.73,2 Phone calls,active,66167.56
+782682,5,2.1,1 Email,active,61138.2
+783783,2,1.46,1 Email,active,36465.98
+784023,2,1.48,2 Phone calls,active,104327.9
+786186,2,1.46,2 Phone calls,active,128569.29
+791126,2,1.58,1 Visit,active,53907.21
+794738,2,1.44,2 Phone calls,active,163322.75
+795863,3,1.5,1 Visit,active,41328.74
+796022,2,1.58,2 Phone calls,active,81157.44
+797143,2,1.47,1 Email,active,42108.6
+798548,2,1.51,2 Phone calls,active,40112.71
+801680,2,1.46,1 Email,active,43266.94
+802673,2,1.46,1 Email,active,110728.91
+802878,2,1.57,2 Phone calls,active,37749.76
+803932,5,1.56,2 Phone calls,churned,96074.82
+804156,2,1.86,2 Phone calls,active,52447.18
+805390,2,3.76,2 Phone calls,active,46303.81
+805583,2,1.62,2 Phone calls,active,45733.44
+805616,2,1.5,1 Email,active,36788.62
+805704,3,1.51,2 Phone calls,active,44374.44
+808292,2,1.88,1 Visit,active,50873.12
+811505,251,1.44,1 Visit,churned,79531.77
+813191,3,1.59,1 Email,active,47449.99
+813686,3,1.47,1 Visit,active,63514.52
+815746,11,2.34,1 Email,churned,40492.95
+819814,2,1.44,1 Email,active,75696.82
+821980,3,1.68,2 Phone calls,active,64379.64
+822336,2,2.95,1 Visit,active,47146.34
+824122,19,7.53,1 Visit,active,41076.7
+826261,2,1.44,2 Phone calls,active,46715.94
+826940,9,2.05,2 Phone calls,churned,52443.65
+828304,4,1.64,1 Visit,active,42104.31
+829814,11,4.14,1 Email,active,266885.51
+831718,3,1.65,2 Phone calls,active,75136.48
+833036,12,2.53,2 Phone calls,churned,65531.97
+834287,3,1.48,1 Visit,active,90956.61
+836754,9,1.55,2 Phone calls,churned,53264.94
+837714,3,1.55,1 Visit,active,36818.72
+838172,2,1.46,2 Phone calls,active,54156.5
+838258,2,1.44,1 Visit,active,134024.28
+845385,2,1.5,1 Visit,active,83215.41
+847354,3,1.88,1 Email,active,65149.69
+848962,2,1.44,2 Phone calls,active,57820.59
+853623,10,2.53,2 Phone calls,churned,78752.9
+854451,3,1.48,1 Visit,active,77596.9
+855979,2,1.49,2 Phone calls,active,47669.71
+864026,2,3.82,1 Email,active,142802.06
+867448,2,1.44,1 Visit,active,119622.93
+868013,2,1.61,1 Email,active,40847.06
+871199,1,1.68,1 Visit,active,59925.66
+872525,2,1.5,1 Visit,active,54528.74
+873001,2,2.41,1 Email,active,40432.12
+873150,19,4.34,2 Phone calls,churned,50323.25
+877434,2,1.47,1 Visit,active,111121.11
+878738,2,1.5,1 Email,active,132941.7
+878889,2,1.55,1 Visit,active,44001.89
+879623,3,1.62,2 Phone calls,active,40486.1
+881711,3,1.45,1 Email,active,60776.78
+882417,3,1.47,1 Email,active,91143.83
+885049,2,1.93,1 Email,active,52681.5
+887036,2,1.45,1 Visit,active,85261.94
+890078,2,1.45,1 Visit,active,37248.74
+890252,2,1.47,1 Email,active,47411.89
+891063,2,1.54,2 Phone calls,active,37363.51
+892705,2,1.93,2 Phone calls,active,75491.49
+895646,2,1.56,1 Visit,active,55024.64
+895931,2,1.44,1 Visit,active,89883.62
+896016,3,1.47,2 Phone calls,active,62464.96
+896654,9,1.56,2 Phone calls,churned,61915.21
+900195,3,1.83,1 Visit,active,70215.29
+902253,2,4.29,1 Visit,active,188707.3
+903270,2,1.81,2 Phone calls,active,91921.48
+907689,3,1.56,1 Email,active,38547.3
+908470,2,1.5,1 Email,active,77735.59
+909513,5,6.04,1 Email,active,38177.78
+921599,2,1.44,2 Phone calls,active,59014.62
+921974,2,1.45,2 Phone calls,active,335673.99
+923144,2,1.45,1 Visit,active,116332.41
+924307,3,1.86,2 Phone calls,active,168996.99
+926987,4,2.7,2 Phone calls,active,40614.84
+928567,2,1.82,2 Phone calls,active,45124.81
+934827,2,1.48,1 Email,active,57476.81
+935515,3,1.68,1 Email,active,47675.48
+937801,3,2.43,2 Phone calls,active,103714.66
+938174,4,1.71,2 Phone calls,active,77463.8
+940099,5,1.89,2 Phone calls,active,58618.29
+940650,2,1.45,1 Email,active,91389.9
+942415,2,1.58,1 Visit,active,50898.06
+942459,9,1.78,1 Visit,churned,39269.76
+943886,2,1.84,1 Email,active,45999.9
+944287,1,1.59,2 Phone calls,active,47302.92
+944916,4,2.73,1 Email,active,87946.13
+944998,9,3.77,1 Email,active,47916.34
+946576,3,1.84,1 Visit,active,39468.33
+947867,2,1.51,1 Visit,active,40787.69
+948017,2,1.49,2 Phone calls,active,92473.96
+951757,2,1.46,1 Email,active,81477.07
+953990,3,1.52,1 Email,active,55133.4
+955820,2,1.36,2 Phone calls,active,111304.1
+958591,4,3.61,1 Visit,active,42908.58
+960796,2,1.49,1 Email,active,48477.49
+961759,4,2.87,1 Visit,active,39302.5
+963046,3,3.09,1 Visit,active,47671.6
+963676,32,5.1,2 Phone calls,churned,41718.1
+964048,2,2.18,1 Visit,active,37953.29
+967012,2,1.55,1 Visit,active,49848.48
+969778,4,1.57,2 Phone calls,active,49549.66
+972461,2,1.56,1 Email,active,42541.35
+973658,5,1.6,2 Phone calls,churned,90932.41
+974971,2,1.5,1 Email,active,36808.58
+976682,2,1.44,1 Email,active,142632.15
+976974,4,1.46,1 Visit,active,105300.33
+977478,17,2.74,1 Visit,churned,38315.13
+979094,2,1.52,1 Visit,active,41612.42
+984348,10,3.54,2 Phone calls,active,62263.48
+984422,2,1.44,2 Phone calls,active,66330.16
+985303,2,1.46,1 Visit,active,75007.71
+990171,2,1.58,1 Visit,active,46292.09
+990641,2,1.54,1 Email,active,44763.23
+992178,2,1.6,1 Visit,active,91446.21
+992720,19,1.9,1 Visit,churned,95292.66
+994813,5,1.64,2 Phone calls,churned,49722.43
+995683,5,3.2,2 Phone calls,active,39233.34
+996794,2,1.44,1 Email,active,51343.27
+1005196,4,1.56,1 Visit,active,50510.5
+1007170,3,1.93,2 Phone calls,active,56675.71
+1007327,2,1.5,1 Visit,active,57341.76
+1009395,2,1.54,1 Email,active,45642.86
+1011461,3,2.98,1 Email,active,40525.13
+1012620,2,1.55,1 Email,active,43536.56
+1012791,2,1.65,1 Visit,active,56227.15
+1015520,2,1.45,1 Visit,active,46677.29
+1015601,2,1.45,2 Phone calls,active,97485.99
+1015875,2,1.52,1 Visit,active,62760.66
+1020477,2,1.45,1 Visit,active,110776.41
+1021255,2,1.45,1 Visit,active,37986.81
+1022370,2,1.61,1 Email,active,49839.19
+1024918,2,1.46,1 Visit,active,38836.49
+1024919,3,1.86,2 Phone calls,active,113216.04
+1025297,4,1.64,1 Email,active,37174.31
+1035245,223,1.5,1 Visit,churned,52723.19
+1035982,2,53.75,1 Email,active,55401.98
+1037392,9,1.61,2 Phone calls,churned,63969.88
+1037700,9,1.56,1 Visit,churned,36184.52
+1039875,11,1.77,1 Visit,churned,81256.0
+1042144,5,1.51,1 Email,churned,103115.59
+1043040,9,1.96,2 Phone calls,churned,43116.54
+1049145,2,1.44,2 Phone calls,active,296614.21
+1055397,4,1.53,2 Phone calls,active,60291.76
+1056098,2,1.48,1 Email,active,37662.26
+1056862,2,1.48,1 Email,active,43229.4
+1057218,11,1.83,1 Email,churned,53799.26
+1057238,2,1.68,1 Visit,active,37868.31
+1060920,5,2.82,1 Visit,active,37909.98
+1061219,2,1.32,2 Phone calls,active,133273.4
+1061432,5,3.57,1 Email,active,87983.14
+1061798,2,1.48,1 Email,active,42505.54
+1062097,2,1.49,1 Visit,active,56139.32
+1064574,2,1.44,2 Phone calls,active,53775.54
+1066590,9,1.53,1 Email,churned,146194.5
+1067777,10,1.56,1 Visit,churned,71119.11
+1070692,2,1.49,1 Email,active,58241.55
+1072318,2,3.27,1 Email,active,39430.42
+1072447,2,1.59,2 Phone calls,active,38192.53
+1073335,5,1.5,2 Phone calls,churned,43609.48
+1074263,3,1.51,1 Email,active,52892.7
+1074887,2,1.47,1 Email,active,93550.91
+1080520,20,2.95,1 Visit,churned,77227.22
+1081078,5,1.57,1 Visit,churned,60255.4
+1081700,2,1.57,1 Visit,active,61156.23
+1081914,3,1.54,2 Phone calls,active,46716.54
+1086503,2,1.44,1 Visit,active,50839.53
+1086572,2,1.47,2 Phone calls,active,59983.36
+1086584,2,1.53,1 Email,active,197759.59
+1087422,10,3.86,1 Visit,active,45901.64
+1087991,2,1.54,1 Visit,active,58394.99
+1088254,2,1.65,2 Phone calls,active,45951.2
+1089966,3,1.62,1 Email,active,45284.7
+1094636,2,1.45,1 Email,active,85047.08
+1094895,2,1.61,2 Phone calls,active,46560.24
+1095289,3,1.52,1 Visit,active,128978.05
+1098127,3,1.97,2 Phone calls,active,60940.17
+1098821,2,1.58,1 Visit,active,37192.41
+1099928,2,1.47,1 Visit,active,76556.01
+1100989,10,4.76,2 Phone calls,active,40831.85
+1101928,2,1.49,1 Visit,active,107137.26
+1102882,5,1.84,2 Phone calls,active,83129.6
+1110074,3,1.51,1 Email,active,109387.73
+1110934,2,1.48,1 Email,active,43315.2
+1111061,2,1.45,1 Visit,active,65344.71
+1111303,342,27.29,1 Visit,churned,80428.07
+1113561,2,1.45,1 Visit,active,204651.66
+1115153,2,1.65,1 Email,active,49015.01
+1116074,3,1.94,1 Email,active,63978.45
+1120983,3,1.72,2 Phone calls,active,55377.88
+1121492,2,1.56,1 Visit,active,66219.32
+1123869,2,1.49,1 Visit,active,82037.61
+1124243,2,1.52,1 Visit,active,46453.3
+1125846,12,3.33,1 Email,churned,89624.63
+1133418,2,1.44,1 Email,active,46830.34
+1133876,2,1.49,1 Email,active,69024.41
+1137482,2,1.59,2 Phone calls,active,66770.71
+1138397,2,1.49,1 Email,active,94771.5
+1138882,10,2.77,1 Visit,churned,45059.73
+1140655,2,1.58,1 Email,active,46108.2
+1140720,3,1.65,1 Visit,active,94914.33
+1147910,3,3.0,2 Phone calls,active,51663.61
+1148306,4,1.54,1 Visit,active,45654.48
+1152568,2,1.44,1 Visit,active,117882.96
+1152581,11,2.92,1 Email,churned,60697.87
+1153183,10,2.21,2 Phone calls,churned,46097.23
+1153281,2,1.53,1 Visit,active,89108.91
+1159288,2,1.46,2 Phone calls,active,74099.41
+1160732,2,1.7,1 Email,active,41754.94
+1162413,2,1.26,1 Email,active,52972.42
+1167160,2,1.51,2 Phone calls,active,58917.12
+1168370,2,1.47,1 Email,active,87510.34
+1169471,3,1.58,2 Phone calls,active,44843.49
+1172010,5,1.56,2 Phone calls,churned,56636.04
+1172059,10,1.63,2 Phone calls,churned,40655.56
+1172375,2,1.48,1 Visit,active,81328.68
+1173820,3,1.51,2 Phone calls,active,52027.62
+1174089,3,1.77,2 Phone calls,active,36678.87
+1183219,2,1.51,1 Email,active,84339.34
+1183246,9,1.58,1 Email,churned,62325.56
+1185130,2,1.47,1 Email,active,118691.85
+1189655,10,1.57,1 Visit,churned,242086.6
+1190655,4,1.63,2 Phone calls,active,65250.91
+1192884,2,1.56,2 Phone calls,active,48482.3
+1195140,5,1.66,1 Email,churned,71763.23
+1196079,11,4.03,1 Visit,active,64760.42
+1197366,2,1.56,1 Visit,active,61344.81
+1197663,13,1.77,2 Phone calls,churned,83543.26
+1199544,4,13.84,2 Phone calls,active,36239.9
+1199705,10,3.28,2 Phone calls,churned,36988.51
+1199719,2,1.37,1 Visit,active,108610.3
+1200357,5,1.68,1 Email,active,47714.02
+1200377,3,1.81,1 Email,active,41436.71
+1201184,9,2.3,2 Phone calls,churned,37210.81
+1202795,2,1.56,1 Visit,active,58759.56
+1202835,2,1.45,2 Phone calls,active,240579.01
+1206881,3,3.62,1 Email,active,62872.35
+1207077,2,1.44,1 Email,active,127392.86
+1207268,2,1.59,1 Visit,active,38522.43
+1211835,9,2.22,1 Visit,churned,37607.65
+1213167,2,1.8,2 Phone calls,active,36808.7
+1214033,2,1.69,1 Visit,active,68023.41
+1219777,10,2.52,1 Visit,churned,43711.6
+1224310,4,1.63,1 Email,active,36776.29
+1224856,12,7.34,1 Email,active,37213.88
+1225282,122,2.38,1 Visit,churned,62845.2
+1225656,4,1.48,1 Email,active,67071.0
+1226179,2,1.44,2 Phone calls,active,129636.27
+1228003,3,1.73,2 Phone calls,active,36224.45
+1228309,11,2.17,1 Visit,churned,37000.15
+1229867,2,1.45,2 Phone calls,active,62884.48
+1230637,2,1.42,2 Phone calls,active,67401.42
+1231491,2,1.44,2 Phone calls,active,55697.6
+1232507,3,1.45,2 Phone calls,active,258976.89
+1234281,2,1.56,1 Email,active,44702.32
+1235437,2,1.45,1 Visit,active,40461.96
+1235932,3,1.72,2 Phone calls,active,85518.24
+1236887,3,1.56,2 Phone calls,active,65991.54
+1238943,3,1.55,1 Visit,active,43038.44
+1239267,3,1.66,1 Email,active,58380.52
+1242569,9,1.51,1 Visit,churned,91733.73
+1245346,3,1.45,1 Email,active,184080.53
+1245638,9,2.1,1 Email,churned,88238.1
+1246822,2,1.62,1 Visit,active,59529.25
+1247708,2,1.49,1 Email,active,61891.84
+1247776,2,1.53,1 Email,active,46779.26
+1248683,9,1.95,1 Email,churned,36803.44
+1249092,2,1.44,1 Visit,active,75991.68
+1251083,3,1.72,2 Phone calls,active,73432.1
+1252913,3,1.59,1 Visit,active,38063.46
+1253228,5,1.67,1 Visit,churned,55643.87
+1253452,3,1.7,1 Visit,active,39359.54
+1253645,2,1.76,1 Visit,active,48613.45
+1255333,9,1.69,1 Email,churned,53842.91
+1255733,2,1.53,2 Phone calls,active,53425.29
+1257195,2,1.5,1 Email,active,79051.73
+1265534,5,2.3,1 Email,active,43993.39
+1266514,2,1.44,2 Phone calls,active,61121.38
+1267503,10,1.48,2 Phone calls,churned,81103.85
+1272143,2,1.54,2 Phone calls,active,37848.87
+1275836,2,1.45,1 Email,active,50584.2
+1276388,3,1.5,2 Phone calls,active,110351.75
+1276554,4,1.83,1 Visit,active,41833.64
+1277127,3,1.49,1 Visit,active,74528.91
+1278072,67,1.62,1 Email,churned,148753.93
+1278245,2,1.5,1 Email,active,43271.62
+1278679,9,1.61,1 Email,churned,48845.21
+1279952,2,1.44,2 Phone calls,active,156369.95
+1285921,4,1.53,1 Email,active,40451.21
+1286854,2,1.44,2 Phone calls,active,52353.01
+1287482,2,1.65,1 Email,active,46401.68
+1292183,2,1.44,1 Email,active,51241.01
+1292640,2,1.89,1 Visit,active,42460.9
+1294746,2,1.86,2 Phone calls,active,47481.2
+1295190,9,2.62,1 Visit,churned,36114.18
+1296144,2,1.44,1 Email,active,62630.81
+1301817,5,3.46,1 Email,active,70399.91
+1306226,4,3.68,1 Email,active,40004.66
+1306848,9,1.47,2 Phone calls,churned,105009.84
+1307079,5,1.69,1 Visit,active,88146.81
+1307496,4,1.69,2 Phone calls,active,84685.48
+1309087,10,1.68,2 Phone calls,churned,39018.01
+1311936,2,1.55,2 Phone calls,active,38903.22
+1314676,2,1.46,2 Phone calls,active,65091.24
+1315527,2,1.45,2 Phone calls,active,102773.94
+1315832,4,1.84,2 Phone calls,active,37767.39
+1319549,2,1.44,2 Phone calls,active,68054.38
+1319656,4,1.58,2 Phone calls,active,42170.04
+1320104,2,1.62,1 Visit,active,40582.45
+1322020,2,1.46,1 Visit,active,78041.31
+1323849,2,1.52,1 Email,active,38127.08
+1323893,2,1.46,1 Email,active,48625.2
+1325246,2,1.73,1 Visit,active,38760.32
+1326247,3,2.18,1 Visit,active,67696.04
+1329298,2,1.53,2 Phone calls,active,168800.0
+1330222,3,1.4,1 Visit,active,127192.49
+1330235,2,1.64,1 Email,active,52273.87
+1332210,2,1.59,2 Phone calls,active,60841.17
+1335899,2,1.45,2 Phone calls,active,84466.93
+1336351,2,1.5,1 Email,active,53127.83
+1339893,2,1.43,1 Visit,active,181069.94
+1341154,10,1.84,1 Visit,churned,40419.44
+1342317,2,1.45,1 Visit,active,125132.91
+1344561,4,1.88,1 Email,active,170750.66
+1347437,3,2.11,1 Visit,active,72996.4
+1348505,2,1.46,1 Visit,active,136582.9
+1348829,4,1.85,1 Email,active,71100.68
+1354396,2,1.46,1 Email,active,108669.64
+1354446,2,1.5,1 Visit,active,72563.31
+1355846,4,3.13,2 Phone calls,active,39597.76
+1361894,3,1.47,1 Email,active,88426.99
+1361966,2,1.48,1 Email,active,98062.31
+1362985,2,1.45,2 Phone calls,active,69593.04
+1364491,10,4.59,1 Visit,active,75902.8
+1364727,2,1.47,1 Email,active,46155.56
+1365251,9,1.57,2 Phone calls,churned,36653.08
+1365256,2,1.45,1 Email,active,68791.61
+1366779,2,1.45,2 Phone calls,active,57756.01
+1367588,2,1.74,1 Email,active,37506.34
+1368716,2,1.48,2 Phone calls,active,54974.26
+1371799,2,1.52,1 Visit,active,40277.61
+1372020,3,1.95,2 Phone calls,active,44448.28
+1372496,5,1.98,1 Visit,active,197811.55
+1373528,2,1.76,1 Visit,active,45397.64
+1375758,2,1.44,1 Email,active,53235.71
+1375779,5,1.56,2 Phone calls,churned,62508.46
+1378802,2,1.44,1 Visit,active,112754.05
+1379354,10,1.92,1 Visit,churned,52043.8
+1384459,2,1.47,2 Phone calls,active,154080.39
+1386568,9,1.58,1 Visit,churned,221854.71
+1388910,4,1.5,1 Visit,active,95868.14
+1389827,2,1.44,1 Visit,active,44913.36
+1391269,3,2.9,1 Visit,active,59223.29
+1394239,4,1.47,1 Email,active,46213.31
+1394528,355,1.47,2 Phone calls,churned,85132.24
+1394573,2,1.46,2 Phone calls,active,41087.9
+1395153,2,1.52,2 Phone calls,active,68760.2
+1399590,3,1.47,1 Email,active,46515.75
+1399604,3,1.47,1 Email,active,62298.6
+1399812,4,1.64,2 Phone calls,active,51210.27
+1400063,2,1.58,1 Email,active,52642.09
+1401834,5,1.89,1 Visit,active,59786.28
+1401937,2,1.45,1 Visit,active,36299.8
+1403538,2,1.45,2 Phone calls,active,57561.84
+1404961,360,1.93,2 Phone calls,churned,86776.7
+1405856,2,1.5,1 Email,active,44966.92
+1406235,2,1.46,1 Email,active,38316.15
+1406355,4,1.48,1 Visit,active,76136.16
+1408864,2,1.49,1 Visit,active,86488.71
+1411356,2,1.63,1 Email,active,39060.71
+1412142,2,1.45,1 Visit,active,116928.4
+1413548,2,1.45,1 Email,active,36449.7
+1415806,2,1.44,2 Phone calls,active,75425.15
+1416929,9,1.56,2 Phone calls,churned,48104.04
+1419468,2,1.44,2 Phone calls,active,107699.41
+1423548,2,1.44,1 Visit,active,44096.65
+1427960,2,1.44,1 Email,active,48159.49
+1430104,2,1.47,1 Visit,active,67583.24
+1430290,10,1.7,2 Phone calls,churned,105872.45
+1430988,2,1.44,1 Email,active,85650.56
+1431063,2,1.45,2 Phone calls,active,79568.0
+1432531,2,1.45,1 Visit,active,302661.25
+1434391,0,1.43,1 Email,active,68518.61
+1435280,2,1.44,1 Email,active,46967.59
+1438680,3,1.54,1 Visit,active,69284.42
+1439652,4,2.14,2 Phone calls,active,70989.54
+1440389,2,1.44,1 Email,active,239916.34
+1442632,9,1.9,1 Visit,churned,39462.06
+1444500,2,1.3,1 Visit,active,228767.01
+1445989,2,1.44,1 Visit,active,177524.5
+1447199,9,1.59,1 Email,churned,69952.46
+1452140,2,1.68,1 Email,active,39767.36
+1459160,3,1.5,1 Email,active,70118.44
+1461561,3,1.45,2 Phone calls,active,206426.34
+1462094,2,1.57,1 Email,active,54732.04
+1464751,5,2.17,2 Phone calls,active,44219.34
+1466118,4,1.57,1 Visit,active,59788.49
+1466819,2,1.51,1 Visit,active,63253.37
+1467094,2,1.56,1 Email,active,56930.74
+1468024,3,1.78,1 Visit,active,82314.4
+1470656,3,1.53,2 Phone calls,active,287860.81
+1472383,2,1.61,1 Email,active,51233.18
+1474590,30,57.27,1 Visit,active,38359.07
+1475340,3,1.51,1 Visit,active,45289.11
+1475964,9,1.62,2 Phone calls,churned,54673.18
+1479831,2,1.59,2 Phone calls,active,50962.66
+1480577,3,1.64,1 Visit,active,43637.99
+1482926,9,1.44,1 Visit,churned,154077.4
+1485314,2,1.53,2 Phone calls,active,70409.86
+1487225,3,1.85,1 Visit,active,66717.85
+1488213,2,1.46,1 Visit,active,38642.95
+1492058,3,1.52,2 Phone calls,active,39249.84
+1492190,10,1.64,1 Visit,churned,86908.6
+1492994,2,1.46,1 Email,active,137193.49
+1497814,4,1.55,1 Email,active,42978.19
+1500922,2,1.63,1 Visit,active,42786.33
+1504600,3,2.27,2 Phone calls,active,79533.16
+1506304,2,1.69,1 Visit,active,39116.61
+1508436,2,1.44,1 Email,active,67848.56
+1509241,9,1.49,1 Visit,churned,99951.25
+1517824,2,1.76,1 Visit,active,153570.03
+1518658,2,1.44,1 Visit,active,47262.1
+1520596,2,1.46,2 Phone calls,active,45091.93
+1523348,2,1.52,1 Email,active,42231.08
+1525076,9,1.7,1 Visit,churned,66483.59
+1525545,9,1.64,2 Phone calls,churned,93686.04
+1527997,10,2.34,1 Email,churned,41122.24
+1528503,9,1.61,1 Email,churned,66636.34
+1536566,3,2.41,2 Phone calls,active,57583.48
+1538838,2,1.46,2 Phone calls,active,79395.95
+1539945,2,1.42,1 Visit,active,36200.58
+1540443,3,1.91,2 Phone calls,active,49353.54
+1541028,2,1.58,2 Phone calls,active,45787.74
+1541548,2,1.84,2 Phone calls,active,52871.04
+1542078,2,1.44,1 Email,active,184039.46
+1542223,3,1.56,1 Visit,active,99416.24
+1542288,5,1.56,2 Phone calls,churned,70049.04
+1542373,2,1.46,1 Email,active,37867.01
+1544867,9,3.51,2 Phone calls,active,93806.86
+1544929,12,3.15,1 Email,churned,42375.98
+1552980,2,1.44,1 Visit,active,501704.88
+1552983,9,2.19,1 Email,churned,70216.88
+1554575,3,1.45,2 Phone calls,active,46406.83
+1556263,68,4.02,1 Email,churned,57690.21
+1557652,3,1.54,2 Phone calls,active,74784.28
+1558643,2,1.67,1 Visit,active,63748.34
+1561399,2,1.44,2 Phone calls,active,55098.35
+1562125,2,1.73,1 Email,active,49850.32
+1563891,4,1.61,1 Email,active,65684.85
+1565218,2,1.52,1 Visit,active,91166.69
+1566106,3,1.66,1 Visit,active,52738.64
+1570465,2,2.28,1 Email,active,61582.28
+1571090,9,1.94,2 Phone calls,churned,55125.91
+1571479,2,1.69,2 Phone calls,active,43651.32
+1572986,9,1.73,2 Phone calls,churned,53679.39
+1573269,9,1.91,1 Email,churned,104692.72
+1575569,2,1.53,1 Visit,active,48943.15
+1576427,4,1.6,1 Visit,active,65597.91
+1577519,2,1.6,1 Visit,active,37645.04
+1580202,3,1.77,1 Visit,active,76097.54
+1582727,11,2.33,1 Visit,churned,82475.76
+1582843,2,1.46,1 Visit,active,90345.36
+1583937,9,1.62,1 Visit,churned,90064.23
+1585911,9,2.32,2 Phone calls,churned,36518.86
+1586814,2,1.46,2 Phone calls,active,104264.6
+1587101,2,1.44,1 Visit,active,188115.02
+1592247,3,1.57,2 Phone calls,active,109927.25
+1592949,2,1.49,1 Visit,active,122460.18
+1595424,2,1.5,1 Email,active,95307.26
+1596618,2,1.68,1 Visit,active,68854.23
+1597088,44,24.39,2 Phone calls,active,53361.4
+1600012,2,1.47,1 Email,active,87291.79
+1600227,4,2.84,1 Visit,active,42131.72
+1602946,2,1.52,1 Email,active,48797.85
+1603342,9,2.94,2 Phone calls,churned,52690.25
+1604243,2,1.45,2 Phone calls,active,43936.1
+1604281,9,1.76,1 Visit,churned,60721.82
+1604652,32,7.73,1 Email,churned,41678.18
+1605331,2,1.5,1 Visit,active,51490.3
+1605559,2,1.5,1 Email,active,85247.55
+1605783,2,1.54,2 Phone calls,active,45166.96
+1606013,3,1.78,2 Phone calls,active,36904.21
+1606369,2,1.45,1 Visit,active,127880.46
+1608313,10,2.01,1 Visit,churned,38410.6
+1611579,2,1.45,1 Visit,active,97593.7
+1612277,2,1.51,1 Email,active,67449.98
+1613036,2,1.44,1 Visit,active,59220.96
+1614115,2,1.53,2 Phone calls,active,39340.62
+1614636,2,1.63,1 Email,active,36676.8
+1616101,2,1.59,2 Phone calls,active,72362.34
+1621313,271,1.53,1 Visit,churned,60188.02
+1621960,9,1.75,1 Visit,churned,88705.71
+1623075,3,1.98,2 Phone calls,active,46076.56
+1627565,3,2.03,1 Email,active,38053.95
+1627628,11,1.69,1 Email,churned,39568.84
+1628050,3,1.83,2 Phone calls,active,41969.45
+1630677,2,1.45,2 Phone calls,active,132097.32
+1633062,2,2.06,2 Phone calls,active,91717.02
+1635829,4,1.73,1 Visit,active,47166.32
+1636550,10,1.87,1 Visit,churned,53601.66
+1638922,2,1.88,2 Phone calls,active,58310.34
+1639064,2,1.59,1 Visit,active,37739.43
+1640730,4,2.54,2 Phone calls,active,43462.29
+1643098,2,1.45,1 Visit,active,111698.8
+1646896,9,1.61,2 Phone calls,churned,66004.55
+1649231,11,2.38,1 Visit,churned,36631.41
+1656170,2,1.48,2 Phone calls,active,73242.91
+1657523,2,1.55,1 Visit,active,39198.17
+1663565,2,1.46,1 Visit,active,62004.32
+1665002,3,1.66,1 Visit,active,59646.66
+1665304,2,1.55,2 Phone calls,active,76669.89
+1665802,2,1.44,1 Visit,active,98753.58
+1665874,2,1.48,1 Visit,active,53296.38
+1666266,2,1.44,2 Phone calls,active,134270.64
+1666866,2,1.48,1 Visit,active,93773.35
+1667347,2,1.53,1 Visit,active,44623.86
+1668756,2,1.44,2 Phone calls,active,284911.89
+1672231,9,1.63,1 Visit,churned,57916.08
+1673444,2,1.56,2 Phone calls,active,97327.85
+1675712,2,1.87,2 Phone calls,active,50389.96
+1675805,11,4.53,1 Email,active,39705.15
+1677414,2,1.77,1 Visit,active,37711.08
+1677494,2,1.49,2 Phone calls,active,72346.85
+1678158,9,3.17,2 Phone calls,active,41133.5
+1678377,2,1.51,1 Email,active,54868.61
+1678916,9,1.69,2 Phone calls,churned,65160.8
+1679800,10,1.52,1 Email,churned,49525.76
+1679880,2,1.77,1 Email,active,38687.14
+1680100,9,1.94,1 Email,churned,70451.29
+1683770,3,1.68,1 Email,active,37253.66
+1685351,2,1.46,2 Phone calls,active,82868.11
+1686478,2,1.44,1 Visit,active,48363.7
+1688054,2,1.46,2 Phone calls,active,157197.84
+1693565,52,3.17,2 Phone calls,churned,59257.1
+1697269,3,1.5,1 Visit,active,93785.16
+1698074,2,1.59,1 Email,active,47437.91
+1707653,2,1.44,1 Email,active,62836.42
+1708246,4,1.63,1 Visit,active,62089.71
+1708388,2,1.46,1 Visit,active,171240.55
+1710016,2,1.57,1 Visit,active,51000.66
+1714976,2,1.55,1 Visit,active,53980.86
+1715764,2,1.51,1 Email,active,42291.45
+1715942,2,1.49,1 Email,active,49231.8
+1716337,2,1.5,1 Visit,active,50867.43
+1717937,3,1.47,2 Phone calls,active,69788.9
+1722816,9,1.54,1 Email,churned,174756.82
+1723362,2,1.57,1 Email,active,50956.46
+1724290,2,1.47,1 Visit,active,61031.27
+1726640,3,1.79,1 Visit,active,44587.82
+1728553,2,1.58,1 Visit,active,65955.17
+1729848,2,1.5,2 Phone calls,active,70432.02
+1731983,2,1.46,1 Visit,active,84151.37
+1733135,13,2.44,2 Phone calls,churned,45667.59
+1735239,2,1.78,2 Phone calls,active,107195.86
+1736276,5,1.66,2 Phone calls,churned,113793.09
+1736352,3,1.52,1 Visit,active,46139.01
+1738186,2,1.47,1 Visit,active,68544.1
+1738545,13,1.85,1 Email,churned,56687.92
+1741548,59,7.58,1 Email,churned,46543.63
+1743946,9,2.37,2 Phone calls,churned,64706.71
+1744230,12,2.24,1 Visit,churned,44917.6
+1744670,2,1.51,1 Email,active,48300.56
+1744921,100,1.64,1 Visit,churned,59321.2
+1745613,2,1.51,2 Phone calls,active,66285.88
+1746803,4,1.53,2 Phone calls,active,41851.89
+1751691,9,1.82,1 Visit,churned,47741.16
+1752582,2,1.84,1 Email,active,36448.99
+1754265,4,1.78,1 Visit,active,51407.16
+1759387,3,1.51,1 Visit,active,63984.55
+1763429,5,4.53,1 Email,active,46288.76
+1763921,2,1.97,1 Visit,active,66865.34
+1765043,2,1.44,1 Visit,active,81138.7
+1770644,10,1.72,1 Visit,churned,47555.16
+1772190,3,2.09,1 Email,active,47589.45
+1772686,2,1.45,1 Visit,active,109068.21
+1772868,2,1.49,1 Email,active,129410.21
+1772875,2,1.62,1 Email,active,43593.0
+1773169,2,1.43,1 Visit,active,961922.16
+1774260,3,1.45,2 Phone calls,active,137367.61
+1777113,3,1.56,1 Email,active,41883.08
+1781484,3,1.97,1 Visit,active,40526.2
+1781782,10,4.61,1 Visit,active,138900.14
+1782234,2,1.45,2 Phone calls,active,43153.25
+1785158,2,1.49,1 Email,active,159760.46
+1785411,2,1.48,1 Visit,active,36106.15
+1785734,3,1.69,1 Email,active,47416.39
+1789445,2,3.27,1 Visit,active,37294.79
+1789729,2,1.47,1 Visit,active,37664.5
+1790677,2,1.6,1 Email,active,36405.79
+1791515,2,1.39,1 Visit,active,117833.39
+1793336,3,1.49,1 Email,active,70685.17
+1794411,3,1.58,1 Visit,active,72805.41
+1794667,2,1.45,1 Visit,active,238740.7
+1795711,3,1.62,1 Visit,active,39778.38
+1798523,2,1.43,2 Phone calls,active,141554.22
+1799384,2,1.75,1 Email,active,41051.77
+1802620,10,1.95,2 Phone calls,churned,49712.71
+1806531,5,1.45,1 Email,churned,150450.94
+1807467,2,1.66,2 Phone calls,active,64263.69
+1807762,2,1.47,1 Email,active,37161.75
+1810123,5,1.49,1 Visit,churned,65028.7
+1815987,2,1.45,1 Email,active,136751.1
+1816402,10,1.55,2 Phone calls,churned,52619.9
+1816517,2,1.47,1 Email,active,193466.1
+1819214,3,3.29,1 Email,active,37343.1
+1819975,3,1.6,1 Visit,active,39341.35
+1821055,4,1.5,1 Visit,active,43052.69
+1822114,93,9.08,2 Phone calls,churned,51235.45
+1824052,2,1.46,2 Phone calls,active,92309.6
+1824460,2,1.97,1 Visit,active,45416.31
+1824832,2,1.71,2 Phone calls,active,53513.0
+1825445,5,3.11,1 Email,active,47111.29
+1826984,3,1.46,1 Email,active,42003.68
+1827439,2,1.51,2 Phone calls,active,68061.31
+1828052,2,1.58,2 Phone calls,active,42530.9
+1828244,2,1.44,1 Email,active,43195.88
+1829695,9,1.52,1 Email,churned,58713.04
+1830395,2,1.69,2 Phone calls,active,37051.21
+1833069,4,1.51,1 Visit,active,44912.35
+1837070,2,1.45,1 Email,active,166346.96
+1837520,2,1.49,1 Email,active,80237.89
+1837545,3,1.44,1 Email,active,43867.01
+1838408,2,1.44,1 Visit,active,51247.86
+1839598,2,1.47,1 Visit,active,49152.62
+1841847,2,1.49,2 Phone calls,active,87408.84
+1845492,2,1.48,1 Email,active,57929.47
+1848241,9,2.06,2 Phone calls,churned,39892.14
+1849128,2,1.69,1 Email,active,37153.76
+1850878,2,1.51,1 Email,active,43338.79
+1853481,2,1.47,1 Visit,active,98808.1
+1855199,2,1.48,1 Email,active,45302.18
+1855857,10,1.51,2 Phone calls,churned,42490.81
+1856224,3,2.96,1 Visit,active,46975.15
+1858212,2,1.64,1 Email,active,52506.75
+1859952,9,1.59,2 Phone calls,churned,112937.98
+1860260,200,7.15,1 Email,churned,70575.6
+1862441,2,1.5,1 Visit,active,44118.4
+1863981,2,1.73,1 Email,active,39619.61
+1865669,3,1.7,2 Phone calls,active,38632.59
+1869871,2,1.45,2 Phone calls,active,38405.34
+1873103,2,1.61,2 Phone calls,active,50001.65
+1874289,2,1.45,1 Email,active,87464.66
+1874460,9,1.47,1 Visit,churned,63883.9
+1876534,2,1.48,1 Email,active,105202.2
+1877583,2,1.47,1 Email,active,36543.26
+1878244,3,1.63,2 Phone calls,active,51254.49
+1879369,3,1.48,1 Visit,active,87609.62
+1879641,2,1.59,1 Email,active,58708.73
+1883627,2,1.44,1 Visit,active,43340.46
+1884086,2,1.48,1 Email,active,66773.29
+1886274,2,1.46,1 Email,active,49007.59
+1886548,3,1.5,1 Email,active,65128.43
+1886773,2,1.46,1 Email,active,47029.46
+1887048,4,1.54,2 Phone calls,active,68341.36
+1888475,19,3.85,2 Phone calls,churned,37300.18
+1889854,3,1.42,1 Visit,active,107091.85
+1890528,3,1.3,2 Phone calls,active,47957.71
+1890932,2,1.49,1 Email,active,83657.81
+1894012,3,1.82,1 Visit,active,56111.76
+1894490,2,1.61,2 Phone calls,active,49282.92
+1894659,9,1.62,1 Email,churned,58022.66
+1896963,3,1.68,1 Visit,active,77636.58
+1898765,25,2.22,1 Email,churned,55094.01
+1898916,4,1.62,1 Visit,active,81945.55
+1899604,5,1.77,2 Phone calls,active,48696.95
+1900664,2,1.44,1 Email,active,81162.04
+1907299,5,2.65,2 Phone calls,active,108315.39
+1909014,3,1.48,2 Phone calls,active,325159.55
+1910840,2,1.63,1 Email,active,43232.33
+1911392,9,1.6,2 Phone calls,churned,40138.4
+1913186,2,1.47,1 Email,active,53009.7
+1913629,10,6.36,1 Email,active,584202.26
+1913887,2,1.44,1 Email,active,54710.62
+1915585,2,1.63,1 Email,active,55504.61
+1915613,2,1.44,1 Visit,active,44449.9
+1915851,9,2.93,1 Visit,churned,75562.75
+1917892,9,1.55,1 Email,churned,37614.94
+1919899,2,1.46,1 Visit,active,84981.44
+1920957,10,1.68,2 Phone calls,churned,39970.78
+1921040,2,1.7,1 Visit,active,49284.92
+1923484,2,1.44,1 Email,active,134867.29
+1927354,3,1.48,1 Visit,active,42044.2
+1927666,2,1.45,1 Email,active,183687.41
+1927985,3,1.52,1 Email,active,37102.16
+1928162,24,3.57,2 Phone calls,churned,44720.53
+1928178,9,1.69,1 Visit,churned,42426.62
+1928597,2,1.44,2 Phone calls,active,61554.5
+1929913,2,1.51,1 Visit,active,53131.6
+1932019,3,1.46,1 Email,active,90351.64
+1932712,2,1.48,2 Phone calls,active,128107.17
+1933156,2,1.47,2 Phone calls,active,38369.79
+1933362,2,1.46,1 Email,active,163338.68
+1933434,2,1.5,1 Email,active,53587.01
+1933493,2,1.7,1 Email,active,39742.24
+1933771,2,1.47,1 Visit,active,130721.95
+1934466,2,1.52,1 Visit,active,40301.46
+1937993,2,1.67,2 Phone calls,active,61991.15
+1939150,2,2.02,2 Phone calls,active,41811.95
+1939977,2,1.7,1 Email,active,39988.24
+1940818,2,1.83,2 Phone calls,active,45825.43
+1941720,2,1.49,1 Visit,active,162530.16
+1941876,2,1.87,1 Visit,active,64246.68
+1942300,2,1.57,2 Phone calls,active,45759.46
+1945834,2,4.21,2 Phone calls,active,43456.18
+1946333,5,1.61,2 Phone calls,churned,39455.41
+1948639,2,1.44,2 Phone calls,active,70821.16
+1949846,10,1.69,1 Visit,churned,47532.74
+1953099,3,1.43,1 Email,active,89975.21
+1953802,2,1.55,1 Visit,active,38319.4
+1954668,80,29.76,1 Email,active,85535.34
+1954881,3,1.47,2 Phone calls,active,107343.91
+1955141,3,1.97,1 Visit,active,50987.76
+1955600,3,1.71,1 Visit,active,42587.95
+1957799,3,1.48,1 Visit,active,48499.41
+1959584,2,1.55,1 Email,active,43997.66
+1960184,3,1.54,1 Visit,active,36461.31
+1962055,2,1.56,1 Visit,active,37052.5
+1964153,10,2.17,1 Visit,churned,67374.29
+1968178,10,1.68,1 Visit,churned,46814.46
+1973158,2,2.02,1 Email,active,61972.5
+1975280,2,1.57,2 Phone calls,active,88976.56
+1975776,3,1.51,1 Visit,active,61575.96
+1983214,2,1.57,1 Visit,active,229545.29
+1984040,2,1.44,1 Visit,active,60053.2
+1988469,2,1.52,1 Email,active,77805.71
+1990615,2,1.51,2 Phone calls,active,60236.86
+1992242,2,1.46,1 Email,active,107300.36
+1992415,2,1.46,1 Email,active,50882.47
+1997280,97,1.65,2 Phone calls,churned,47721.93
+1997395,12,2.29,1 Visit,churned,37619.88
+2002776,3,1.47,2 Phone calls,active,83382.8
+2003285,2,1.48,1 Visit,active,56364.74
+2005661,2,1.41,2 Phone calls,active,115011.27
+2005735,4,1.67,1 Visit,active,46059.7
+2006233,2,1.46,2 Phone calls,active,84171.99
+2008265,3,1.44,1 Email,active,110896.13
+2009249,24,7.01,1 Email,churned,52099.32
+2010973,2,1.48,1 Email,active,113410.76
+2011327,2,1.51,1 Visit,active,77361.21
+2011450,2,1.45,1 Visit,active,39177.1
+2011853,2,1.44,2 Phone calls,active,134485.18
+2012785,2,1.49,1 Email,active,222900.26
+2012914,9,1.76,2 Phone calls,churned,42186.2
+2014851,2,1.59,2 Phone calls,active,37773.88
+2015912,2,1.82,1 Visit,active,60246.44
+2016824,2,1.47,1 Email,active,56506.95
+2020376,2,1.45,1 Email,active,47397.86
+2021711,2,1.46,2 Phone calls,active,36337.93
+2022081,2,1.44,1 Email,active,49934.06
+2022171,2,1.51,2 Phone calls,active,47056.51
+2023698,93,50.91,2 Phone calls,active,213792.67
+2024092,2,1.55,1 Visit,active,110170.86
+2024114,2,1.46,2 Phone calls,active,36688.29
+2024510,5,1.55,1 Email,churned,81807.75
+2026841,2,1.63,2 Phone calls,active,49814.71
+2027538,2,1.53,1 Visit,active,71165.16
+2027801,2,1.48,1 Email,active,93442.39
+2030489,11,3.03,1 Visit,churned,43814.76
+2032346,2,1.47,2 Phone calls,active,122835.46
+2032534,3,1.53,1 Visit,active,51004.9
+2035682,3,1.92,1 Visit,active,38112.51
+2039258,2,1.5,1 Visit,active,67623.48
+2041356,2,1.48,1 Visit,active,80476.98
+2045052,2,1.47,1 Email,active,67647.6
+2046443,2,3.47,2 Phone calls,active,39992.56
+2048559,2,1.49,2 Phone calls,active,92228.82
+2049122,10,1.71,1 Visit,churned,42173.28
+2049263,10,1.61,1 Visit,churned,37633.15
+2050359,2,1.59,2 Phone calls,active,55977.09
+2053167,2,1.52,2 Phone calls,active,40552.85
+2054373,9,1.61,2 Phone calls,churned,37769.6
+2054600,2,1.48,1 Email,active,38673.3
+2055582,10,2.6,2 Phone calls,churned,44564.71
+2056558,2,1.34,1 Email,active,79688.03
+2056957,4,2.09,1 Email,active,41495.25
+2063562,2,1.97,1 Email,active,150263.66
+2063669,12,4.23,2 Phone calls,active,40081.29
+2065371,2,2.04,2 Phone calls,active,44183.79
+2065373,2,1.75,1 Visit,active,52452.33
+2069312,2,1.46,1 Email,active,68759.66
+2071323,2,1.5,2 Phone calls,active,42610.32
+2071880,2,1.44,1 Email,active,44009.29
+2078827,223,1.44,2 Phone calls,churned,71838.2
+2082160,2,1.72,2 Phone calls,active,38592.5
+2083410,4,1.51,1 Email,active,77178.22
+2084402,2,1.55,1 Email,active,72544.5
+2085897,2,1.44,1 Visit,active,265238.09
+2086156,4,1.48,2 Phone calls,active,77266.81
+2089579,2,1.55,2 Phone calls,active,49663.48
+2089842,2,1.49,1 Email,active,67673.21
+2090949,3,1.67,1 Visit,active,67089.81
+2092620,2,1.54,1 Email,active,74464.39
+2093767,2,1.47,2 Phone calls,active,45193.32
+2095387,3,1.45,1 Email,active,93275.96
+2098246,10,2.97,1 Visit,churned,79851.48
+2101105,2,1.44,1 Email,active,159890.47
+2101589,2,1.48,2 Phone calls,active,37695.05
+2104472,2,1.45,2 Phone calls,active,114246.2
+2104680,2,1.41,2 Phone calls,active,37389.39
+2105006,12,1.66,2 Phone calls,churned,65838.01
+2108057,2,1.66,2 Phone calls,active,37905.84
+2111116,2,1.46,1 Visit,active,83239.6
+2112094,9,1.56,2 Phone calls,churned,56937.58
+2112437,2,1.69,1 Visit,active,63103.34
+2112501,9,1.64,1 Email,churned,37706.29
+2113596,2,1.65,2 Phone calls,active,54665.34
+2113863,4,1.71,2 Phone calls,active,93963.54
+2115677,2,1.48,2 Phone calls,active,58728.87
+2126953,2,1.59,1 Email,active,52371.9
+2128397,2,1.45,1 Visit,active,49765.22
+2129476,9,18.35,1 Email,active,337674.82
+2129710,2,1.69,1 Visit,active,37057.97
+2129943,2,3.24,2 Phone calls,active,82408.14
+2131888,2,1.54,1 Visit,active,47669.28
+2133415,2,1.7,1 Email,active,58693.31
+2134607,2,1.45,1 Email,active,85045.95
+2138981,10,1.87,1 Visit,churned,46658.8
+2140043,5,1.59,1 Email,churned,36422.14
+2140562,2,1.87,2 Phone calls,active,38767.21
+2142011,3,1.47,2 Phone calls,active,54009.69
+2142552,2,1.47,1 Email,active,58895.14
+2142683,2,1.46,1 Visit,active,133093.71
+2142867,9,3.46,1 Visit,active,57649.34
+2146496,2,1.5,1 Visit,active,60868.49
+2147350,9,1.55,1 Email,churned,47026.28
+2150146,4,1.72,2 Phone calls,active,38811.69
+2152833,2,1.56,1 Email,active,37122.9
+2153318,2,4.45,2 Phone calls,active,36664.74
+2153420,2,7.57,1 Visit,active,42842.13
+2157987,34,1.65,2 Phone calls,churned,50326.95
+2158727,2,1.64,1 Visit,active,51536.24
+2159455,2,1.44,1 Visit,active,64322.91
+2164188,2,1.6,2 Phone calls,active,39633.84
+2164481,2,1.46,1 Visit,active,56554.86
+2165416,2,1.49,1 Visit,active,71671.56
+2167021,2,1.46,1 Visit,active,61750.68
+2167770,3,1.51,2 Phone calls,active,59240.64
+2168808,2,1.59,1 Visit,active,37258.9
+2170005,2,1.49,2 Phone calls,active,83576.75
+2171309,2,1.75,2 Phone calls,active,37927.55
+2171433,2,1.46,1 Email,active,286741.54
+2173395,3,1.5,1 Visit,active,45499.45
+2173561,4,1.6,1 Email,active,49758.15
+2178391,2,1.44,1 Visit,active,69135.21
+2180313,2,1.58,1 Visit,active,67520.42
+2182223,2,1.47,2 Phone calls,active,51298.47
+2184558,3,1.53,2 Phone calls,active,49280.34
+2184726,2,1.56,1 Visit,active,40497.77
+2187209,2,1.57,1 Email,active,37501.91
+2187713,3,1.52,1 Visit,active,79923.93
+2189190,2,1.45,2 Phone calls,active,47806.14
+2194765,19,13.58,2 Phone calls,active,51767.52
+2198176,2,1.44,2 Phone calls,active,101300.38
+2201077,3,2.36,1 Visit,active,102316.52
+2205059,4,1.5,2 Phone calls,active,43600.96
+2206993,2,1.82,1 Email,active,68609.21
+2207247,2,1.44,2 Phone calls,active,419588.15
+2209167,2,1.51,1 Visit,active,166241.13
+2212698,9,1.64,2 Phone calls,churned,369346.59
+2215575,30,1.93,1 Email,churned,135066.13
+2216317,2,1.69,2 Phone calls,active,49125.99
+2218306,2,1.83,1 Email,active,36835.76
+2218948,2,1.45,2 Phone calls,active,37940.34
+2221508,2,1.44,1 Visit,active,51257.13
+2221534,2,1.45,1 Visit,active,63951.92
+2231831,10,2.79,1 Email,churned,40899.22
+2232451,3,1.72,2 Phone calls,active,93481.92
+2240369,9,1.66,2 Phone calls,churned,37879.66
+2241968,2,1.45,1 Email,active,131763.45
+2243116,2,1.45,1 Visit,active,36661.0
+2244610,2,1.92,2 Phone calls,active,181285.06
+2245430,2,1.53,2 Phone calls,active,65862.54
+2247243,9,1.61,1 Visit,churned,91221.4
+2247577,2,1.44,1 Email,active,47378.25
+2247807,2,1.71,1 Email,active,44948.81
+2248736,2,1.57,1 Email,active,60835.16
+2250586,2,1.46,1 Visit,active,51022.49
+2256067,2,1.45,1 Visit,active,37787.95
+2256331,2,1.6,2 Phone calls,active,52554.05
+2257833,3,1.5,1 Visit,active,130901.73
+2258491,3,1.54,1 Visit,active,114008.2
+2259196,2,1.54,1 Visit,active,117347.65
+2259764,2,1.47,1 Visit,active,39011.91
+2260903,2,1.45,1 Visit,active,42942.1
+2265439,3,1.69,2 Phone calls,active,39479.6
+2270627,2,1.61,2 Phone calls,active,103073.79
+2271619,2,1.96,1 Email,active,141380.06
+2272525,13,2.02,1 Visit,churned,42802.9
+2272758,2,1.46,1 Visit,active,222448.9
+2273574,2,1.44,1 Visit,active,159695.54
