@@ -2,15 +2,18 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+# Set Streamlit page to wide layout
+st.set_page_config(layout="wide")
+
 # Sample data for customers
-customers_data = pd.read_csv("clients.csv")
+customers_data = pd.read_csv("data/top_1_percent_customers.csv")
 
 # Sample data for transactions
-transactions_data = pd.read_csv('transactions.csv')
+transactions_data = pd.read_csv('data/top_1_percent_transactions.csv')
 
-# Convert date columns to datetime
-customers_data['Last_Purchase_Date'] = pd.to_datetime(customers_data['Last_Purchase_Date'])
-transactions_data['date_order'] = pd.to_datetime(transactions_data['date_order'])
+# # Convert date columns to datetime
+# customers_data['last_purchase'] = pd.to_datetime(customers_data['last_purchase'])
+# transactions_data['date_order'] = pd.to_datetime(transactions_data['date_order'])
 
 st.title("Customer Transactions Dashboard")
 
@@ -21,7 +24,7 @@ status_filter = st.selectbox("Select Customer Status", options=["All"] + list(cu
 filtered_customers = customers_data if status_filter == "All" else customers_data[customers_data['status'] == status_filter]
 
 st.subheader("Customers Table")
-st.dataframe(filtered_customers)
+st.dataframe(filtered_customers, use_container_width=True)
 
 # Dropdown for selecting customer ID
 selected_customer = st.selectbox("Select Client ID", options=filtered_customers['client_id'])
@@ -30,7 +33,7 @@ selected_customer = st.selectbox("Select Client ID", options=filtered_customers[
 filtered_transactions = transactions_data[transactions_data['client_id'] == selected_customer]
 
 st.subheader("Transactions Table")
-st.dataframe(filtered_transactions)
+st.dataframe(filtered_transactions, use_container_width=True)
 
 # Plot transactions over time
 st.subheader("Transactions Over Time")
